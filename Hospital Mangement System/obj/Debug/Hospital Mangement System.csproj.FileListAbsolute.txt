@@ -1,0 +1,23 @@
+G:\Hospital Mangement System\Hospital Mangement System\bin\Debug\Hospital Mangement System.exe.config
+G:\Hospital Mangement System\Hospital Mangement System\bin\Debug\Hospital Mangement System.exe
+G:\Hospital Mangement System\Hospital Mangement System\bin\Debug\Hospital Mangement System.pdb
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital Mangement System.csproj.AssemblyReference.cache
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Add_New_User.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Appointment.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Dashboard.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Doctor.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Invoice.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Login.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Meditation.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Patient.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Properties.Resources.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Resources.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Room_and_Theatre.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Splash_Screen.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Staff_Panel.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Staff.resources
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital Mangement System.csproj.GenerateResource.cache
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital Mangement System.csproj.CoreCompileInputs.cache
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital Mangement System.exe
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital Mangement System.pdb
+G:\Hospital Mangement System\Hospital Mangement System\obj\Debug\Hospital_Mangement_System.Report.resources
